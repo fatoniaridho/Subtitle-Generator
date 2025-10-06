@@ -1,0 +1,5 @@
+{
+  "name": "AI Subtitle Generator",
+  "description": "An application that uses AI to automatically generate descriptive subtitles for video files by analyzing their frames. Users can upload a video, generate subtitles, and download them in VTT format.",
+  "requestFramePermissions": []
+}
